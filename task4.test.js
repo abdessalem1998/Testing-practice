@@ -1,3 +1,5 @@
+const capitalize = require('./task4');
+
 test('Capitalized string', () => {
   //Arrange
   const input = 'hello';
